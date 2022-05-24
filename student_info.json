@@ -1,0 +1,12 @@
+{
+    "first_name": "Nargiza",
+    "last_name": "Anvarbekova",
+    "hobbies": ["sleeping", "reading", "watching movies"],
+    "age": 30,
+    "child":
+        {
+            "name": "Alim",
+            "age": 5
+        }
+
+}
